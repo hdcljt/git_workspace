@@ -16,9 +16,8 @@ ____
 中标题
 ---
 
-```
-graph TB
-A --> B
-```
+![](1.jpg "宝宝")
+
+![imag](https://github.com/hudc-github/git_workspace/1.jpg "宝宝")
 
 
