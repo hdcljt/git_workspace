@@ -16,8 +16,6 @@ ____
 中标题
 ---
 
-![](1.jpg "宝宝")
-
-![imag](https://github.com/hudc-github/git_workspace/1.jpg "宝宝")
+![imag](https://github.com/hudc-github/git_workspace/blob/master/1.jpg "宝宝")
 
 
